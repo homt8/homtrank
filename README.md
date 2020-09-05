@@ -1,4 +1,4 @@
-# Rank
+# Homt-Rank
 This mod adds a ranking system to minetest.
 
 ## Documetation
